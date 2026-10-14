@@ -1,0 +1,6 @@
+SunPower Warranty 原型离线预览
+
+1. 双击 index.html 即可打开原型。
+2. 推荐使用 Chrome、Edge 或 Safari。
+3. 本文件夹中的 assets 不要删除，否则 Excel 模板无法下载。
+4. 该文件仅用于产品原型演示，不包含真实后端和邮件发送能力。
